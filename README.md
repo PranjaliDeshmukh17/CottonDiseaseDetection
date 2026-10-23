@@ -1,7 +1,6 @@
 # Cotton Plant Disease Detection and Smart Crop Advisory System using CNN
 
-**🌐 Live Demo: [http://localhost:8501]**
-
+**🌐 Live Demo:
 An end-to-end AI-powered web application that detects cotton plant diseases using a custom Convolutional Neural Network (CNN) and provides smart crop advisory through an intelligent assistant.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
