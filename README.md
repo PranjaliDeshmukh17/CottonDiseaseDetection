@@ -1,6 +1,6 @@
 # Cotton Plant Disease Detection and Smart Crop Advisory System using CNN
 
-**🌐 Live Demo: [https://cottondiseasedetection-hgt8ep5eqywtz626psqgww.streamlit.app/](https://cottondiseasedetection-hgt8ep5eqywtz626psqgww.streamlit.app/)**
+**🌐 Live Demo: [http://localhost:8501]**
 
 An end-to-end AI-powered web application that detects cotton plant diseases using a custom Convolutional Neural Network (CNN) and provides smart crop advisory through an intelligent assistant.
 
@@ -306,11 +306,18 @@ This project is licensed under the MIT License. Free for educational and researc
 - OpenCV for image processing
 - ReportLab for PDF generation
 - Google Gemini for AI assistant capabilities
-#   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
- #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
- #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
- #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
- #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
- #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
- #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+#   C o t t o n _ D i s e a s e _ P r e d i c t i o n 
+ 
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n 
+ 
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n 
+ 
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n 
+ 
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n 
+ 
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n 
+ 
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n 
+ 
  
