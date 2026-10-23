@@ -306,3 +306,11 @@ This project is licensed under the MIT License. Free for educational and researc
 - OpenCV for image processing
 - ReportLab for PDF generation
 - Google Gemini for AI assistant capabilities
+#   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+ #   C o t t o n _ D i s e a s e _ P r e d i c t i o n  
+ 

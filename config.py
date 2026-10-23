@@ -52,4 +52,5 @@ APP_TITLE = "Cotton Plant Disease Detection"
 APP_ICON = "🌿"
 
 # Gemini API Key (Add your key here so users don't need to provide it)
-GEMINI_API_KEY = ""
+GEMINI_API_KEY = "GCP_API_KEY"
+
